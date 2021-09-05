@@ -51,6 +51,7 @@ int caresSentence1();
 int caresSentence_FINAL();
 int tjw38tSentence1();
 int tjw38tSentence2();
+<<<<<<< Updated upstream
 int crwxnwSentence1();
 int crwxnwSentence2();
 int ttdghkSentence1();
@@ -63,4 +64,10 @@ int rsb3xSentence1();
 int rsb3xSentence2();
 int jts9z8Sentence1();
 int jts9z8Sentence2();
+=======
+int rconzcSentence1();
+int rconzcSentence2();
+
+
+>>>>>>> Stashed changes
 

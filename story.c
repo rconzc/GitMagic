@@ -86,6 +86,7 @@ int main( void )
 	caresSentence1();
 	crwxnwSentence1();
 	caresSentence_FINAL();
+<<<<<<< Updated upstream
 	ttdghkSentence1();
 	ttdghkSentence2();
 	jts9z8Sentence2();
@@ -95,6 +96,10 @@ int main( void )
 	rsb3xSentence1();
 	rsb3xSentence2();
 	jts9z8Sentence1();
+=======
+	rconzcSentence1();
+	rconzcSentence2();
+>>>>>>> Stashed changes
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

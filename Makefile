@@ -51,7 +51,11 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
+<<<<<<< Updated upstream
 story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o crwxnw.o jlz83.o todhw.o rrbxcf.o nwewnh.o nst9fk.o motc34.o cpdkd3.o jmdm4r.o cqrqfd.o mdhtf3.o cslgbt.o tjw38t.o ttdghk.o sd7my.o rsb3x.o jnqqq.o jts9z8.o
+=======
+story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o jlz83.o todhw.o rrbxcf.o nwewnh.o nst9fk.o motc34.o cpdkd3.o jmdm4r.o cqrqfd.o mdhtf3.o cslgbt.o tjw38t.o rconzc.o
+>>>>>>> Stashed changes
 	$(CC) $^ -o story
 
 ##
@@ -104,6 +108,7 @@ cslgbt.o: sentences/cslgbt.c
 	$(CC) -c $<
 tjw38t.o: sentences/tjw38t.c
 	$(CC) -c $<
+<<<<<<< Updated upstream
 crwxnw.o: sentences/crwxnw.c
 	$(CC) -c $<
 ttdghk.o: sentences/ttdghk.c
@@ -115,4 +120,7 @@ sd7my.o: sentences/sd7my.c
 rsb3x.o: sentences/rsb3x.c
 	$(CC) -c $<
 jts9z8.o: sentences/jts9z8.c
+=======
+rconzc.o: sentences/rconzc.c
+>>>>>>> Stashed changes
 	$(CC) -c $<
