@@ -105,7 +105,6 @@ cslgbt.o: sentences/cslgbt.c
 	$(CC) -c $<
 tjw38t.o: sentences/tjw38t.c
 	$(CC) -c $<
-<<<<<<< Updated upstream
 crwxnw.o: sentences/crwxnw.c
 	$(CC) -c $<
 ttdghk.o: sentences/ttdghk.c
@@ -117,7 +116,6 @@ sd7my.o: sentences/sd7my.c
 rsb3x.o: sentences/rsb3x.c
 	$(CC) -c $<
 jts9z8.o: sentences/jts9z8.c
-=======
+	$(CC) -c $<
 rconzc.o: sentences/rconzc.c
->>>>>>> Stashed changes
 	$(CC) -c $<
